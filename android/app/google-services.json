@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "558627052367",
+    "project_id": "comfort-bites",
+    "storage_bucket": "comfort-bites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558627052367:android:1a1e40cb9be0c7e6cd833a",
+        "android_client_info": {
+          "package_name": "com.example.comfort_bites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558627052367-uk21e2qc5kdtehlrqhe3iv265ck5njag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comfort_bites",
+            "certificate_hash": "46c60a5ef589bc56d556d4b156dc671502544f6d"
+          }
+        },
+        {
+          "client_id": "558627052367-jb72urq5b7uer8siup2h3ebvfdpisg48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JZgufCNEBpn-FXhXsvJyJquTC-h5rlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558627052367-jb72urq5b7uer8siup2h3ebvfdpisg48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
